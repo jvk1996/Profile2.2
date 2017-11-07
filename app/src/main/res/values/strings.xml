@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile2.2</string>
+    <string name="buttonUpdate">update</string>
+    <string name="textViewName">Name:</string>
+    <string name="textViewEmail">Email:</string>
+    <string name="profilePic">profilePicture</string>
+    <string name="buttonSave">save</string>
+    <string name="privacy">visitTARUC</string>
+</resources>
